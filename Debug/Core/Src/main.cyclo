@@ -1,0 +1,13 @@
+../Drivers/CMSIS/Include/core_cm4.h:2064:26:ITM_SendChar	4
+../Core/Src/main.c:119:5:_write	2
+../Core/Src/main.c:128:10:SPI_TX_FUNC	4
+../Core/Src/main.c:146:10:SPI_RX_FUNC	1
+../Core/Src/main.c:161:6:LIS302SDL_write	1
+../Core/Src/main.c:172:6:LIS302SDL_read_axis	1
+../Core/Src/main.c:179:9:Calibration	2
+../Core/Src/main.c:196:6:mdelay	2
+../Core/Src/main.c:207:5:main	7
+../Core/Src/main.c:313:13:MX_I2C1_Init	2
+../Core/Src/main.c:356:13:MX_SPI1_Init	1
+../Core/Src/main.c:398:13:MX_GPIO_Init	1
+../Core/Src/main.c:451:6:Error_Handler	1
